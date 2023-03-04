@@ -282,7 +282,7 @@ main {
 }
 .card a {
     inset: auto auto 40px 30px;
-    color:#3a0db6 !important;
+    color:#ffffff !important;
     text-decoration: none;
 }
 .card:hover h2 {
